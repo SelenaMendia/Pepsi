@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pepsi</string>
+    <string name="Usuario">User</string>
+    <string name="Contraseña">Password</string>
+    <string name="iniciar_sesion">Log in</string>
+    <string name="Historia">Pepsi was invented in 1893 by Caleb Bradham, a pharmaceutical chemist who prepared and sold the drink in his pharmacy in New Bern, North Carolina. Bradham combined kola nut extract, essential oils and vanilla to create the drink. The name Pepsi refers to two of the drink\'s main ingredients: kola nut and pepsin, a type of enzyme that helps organisms digest some proteins.</string>
+    <string name="sobre_nosotros">About us:</string>
+    <string name="Salir">Go out</string>
+    <string name="acerca">About</string>
+    <string name="contacto">Contact:</string>
+    <string name="marcar">Call</string>
+    <string name="enviar">Mail</string>
+    <string name="volver">Back</string>
+    <string name="acerca_de_desarrollador">About Developer</string>
+    <string name="pepsi_co">Pepsi-Co</string>
+    <string name="inicio">Home</string>
+    <string name="selena_noel_mendia">Selena Noel Mendia</string>
+</resources>

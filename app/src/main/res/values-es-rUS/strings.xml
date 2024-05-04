@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pepsi</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="Historia">Pepsi fue inventada en 1893 por Caleb Bradham, un químico farmacéutico que preparaba y vendía la bebida en su botica en New Bern, Carolina del Norte. Bradham combinó extracto de nuez de kola, aceites esenciales y vainilla para crear la bebida. El nombre Pepsi hace referencia a dos de los ingredientes principales de la bebida: nuez de cola y pepsina, un tipo de enzima que ayuda a los organismos a digerir algunas proteínas.</string>
+    <string name="sobre_nosotros">Sobre Nosotros:</string>
+    <string name="Salir">Salir</string>
+    <string name="acerca">Acerca</string>
+    <string name="contacto">Contacto:</string>
+    <string name="marcar">Marcar</string>
+    <string name="enviar">Correo</string>
+    <string name="volver">Volver</string>
+    <string name="acerca_de_desarrollador">Acerca de Desarrollador</string>
+    <string name="pepsi_co">Pepsi-Co</string>
+    <string name="inicio">Inicio</string>
+    <string name="selena_noel_mendia">Selena Noel Mendia</string>
+</resources>
